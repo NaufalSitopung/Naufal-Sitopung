@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>List Bernomor</title>
+</head>
+<body>
+Menu Restoran
+<ol>
+	<li>Ayam Bakar</li>
+	<li>Ayam Goreng</li>
+	<li>Ayam Penyet</li>
+</ol>
+Menu Restoran dengan argumen A
+<ol type="A">
+	<li>Ayam Bakar</li>
+	<li>Ayam Goreng</li>
+	<li>Ayam Penyet</li>
+</ol>
+Menu Restoran dengan argumen a
+<ol type="a">
+	<li>Ayam Bakar</li>
+	<li>Ayam Goreng</li>
+	<li>Ayam Penyet</li>
+</ol>
+Menu Restoran dengan argumen I
+<ol type="I">
+	<li>Ayam Bakar</li>
+	<li>Ayam Goreng</li>
+	<li>Ayam Penyet</li>
+</ol>
+Menu Restoran dengan argumen i
+<ol type="i">
+	<li>Ayam Bakar</li>
+	<li>Ayam Goreng</li>
+	<li>Ayam Penyet</li>
+</ol>
+Menu Restoran default (tanpa argumen)
+<ul>
+	<li>Ayam Bakar</li>
+	<li>Ayam Goreng</li>
+	<li>Ayam Penyet</li>
+</ul>
+Menu Restoran dengan argumen bulat
+<ul type="circle">
+	<li>Ayam Bakar</li>
+	<li>Ayam Goreng</li>
+	<li>Ayam Penyet</li>
+</ul>
+Menu Restoran dengan argumen disc
+<ul type="disc">
+	<li>Ayam Bakar</li>
+	<li>Ayam Goreng</li>
+	<li>Ayam Penyet</li>
+</ul>
+Menu Restoran dengan argumen kotak
+<ul type="square">
+	<li>Ayam Bakar</li>
+	<li>Ayam Goreng</li>
+	<li>Ayam Penyet</li>
+</ul>
+Menu bersarang
+<ol>
+<li>Daging</li>
+	<ul>Menu Ayam
+	<li>Ayam Bakar</li>
+	<li>Bebek Panggang</li>
+	</ul>
+<li>Sayur</li>
+	<ol>Menu Sayur
+	<li>Sayur sup</li>
+	<li>Sayur kol</li>
+	</ol>
+</ol>
+Contoh List yang terdefinisi
+<dl>
+<dt>PMI</dt>
+<dd>Palang Merah Indonesia</dd>
+<dt>PMR</dt>
+<dd>Palang Merah Remaja</dd>
+</dl>
+</body>
+</html>

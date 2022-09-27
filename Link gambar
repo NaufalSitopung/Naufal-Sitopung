@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Hyperlink dengan Gambar</title>
+</head>
+<body>
+<h3>Ini Adalah link dengan gambar</h3>
+<table width="200" border="1" cellspacing="0" cellpadding="0">
+	<tr>
+	<td><a href="studikasus 5-13.html"><img src="Hippo.jpg" width="200" height="150" border="0"></a></td>
+	</tr>
+	<tr>
+		<td>Klik gambar di atas untuk membuka </td>
+	</tr>
+</table>
+</body>
+</html>
