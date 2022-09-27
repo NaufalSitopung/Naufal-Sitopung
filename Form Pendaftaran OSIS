@@ -1,0 +1,74 @@
+<table>
+<body background = 'Gorilla.jpg'>
+<td>Form Pendaftaran Calon OSIS</td>
+<tr>
+<td>Nama Lengkap</td>
+<td>:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Tempat Lahir</td>
+<td>:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Tanggal Lahir</td>
+<td>:</td>
+<td><input type="Date"></td>
+</tr>
+
+<tr>
+<td>Jenis Kelamin</td>
+<td>:</td>
+<td><input type="radio" name='jenis_kelamin' value='pria'/>Pria
+<input type="radio" name='jenis_kelamin' value='perempuan'/>Perempuan</td>
+</tr>
+
+<tr>
+<td>Alamat</td>
+<td>:</td>
+<td><textarea cols="22" rows="3" ></textarea></td>
+</tr>
+
+<tr>
+<td>Hobi</td>
+<td>:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>E-mail</td>
+<td>:</td>
+<td><input type="email"></td>
+</tr>
+
+<tr>
+<td>Nomor Hp</td>
+<td>:</td>
+<td><input type="number"></td>
+</tr>
+
+<tr>
+<td>Agama</td>
+<td>:</td>
+<td><select>
+<option>***SELECT RELIGION***</option>
+<option>Islam</option>
+<option>Katolik</option>
+<option>Protestan</option>
+<option>Budha</option>
+<option>Hindu</option>
+<option>Konghucu</option>
+</select></td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><input type="submit" name="submit" value="Simpan"/>
+<input type="reset" name="reset" value="Batal" /></td>
+</tr>
+
+</table>
